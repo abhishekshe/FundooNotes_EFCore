@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s4Ei8nbufd6pbMmOVXxAVp4PxUeaXtl3kgM/oSHsf8TGzh+hazsISUwGI8MyauqXAgsgrMtkSdjuhmpcDVnN6w==",
+  "dgSpecHash": "pEZ7/iHbv/UgVQlH0bLVCM9PsgxJKlBBGRNCwg5C1GOqHxrOTL8u0Ifmb3MfS15+sHRN5PxMYs68/HP2BpB3mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj",
+  "projectFilePath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

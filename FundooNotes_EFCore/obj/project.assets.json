@@ -6646,11 +6646,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\FundooNotes_EFCore\\FundooNotes_EFCore.csproj",
+      "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\FundooNotes_EFCore\\FundooNotes_EFCore.csproj",
       "projectName": "FundooNotes_EFCore",
-      "projectPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\FundooNotes_EFCore\\FundooNotes_EFCore.csproj",
+      "projectPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\FundooNotes_EFCore\\FundooNotes_EFCore.csproj",
       "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\FundooNotes_EFCore\\obj\\",
+      "outputPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\FundooNotes_EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6667,8 +6667,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj"
             }
           }
         }
