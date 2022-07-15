@@ -10,5 +10,6 @@ namespace BusinessLayer.Interface
 
         public List<User> GetAllUsers();
 
+        public string LoginUser(UserLoginModel loginUser);
     }
 }
