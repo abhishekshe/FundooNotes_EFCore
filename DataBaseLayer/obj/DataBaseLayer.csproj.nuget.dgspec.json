@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj": {}
+    "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj": {
+    "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj",
+        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj",
         "projectName": "DataBaseLayer",
-        "projectPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj",
+        "projectPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\obj\\",
+        "outputPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",

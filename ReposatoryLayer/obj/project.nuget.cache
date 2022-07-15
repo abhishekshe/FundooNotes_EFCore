@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+YDj25JY99rGruinAjFUAb0TY583+Gbtfwp26A5q7zXtnz5IIiG4HdxaJPEEXJz+8tKYrdEUmLnKBjwyS+AHiA==",
+  "dgSpecHash": "UGc5KI+OQoCI/PWMYGg6lQA//dTjMhYWndmFETCkuVJwQvwRnscLu2dZ3+n3+c/P5gq2mdtycE3CUwU5loOIcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj",
+  "projectFilePath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abhis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\abhis\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

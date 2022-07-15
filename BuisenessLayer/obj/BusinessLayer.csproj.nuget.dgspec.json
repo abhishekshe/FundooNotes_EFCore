@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\BuisenessLayer\\obj\\",
+        "outputPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\BuisenessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj": {
-                "projectPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj"
+              "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj": {
+    "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj",
+        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj",
         "projectName": "DataBaseLayer",
-        "projectPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj",
+        "projectPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\obj\\",
+        "outputPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,14 +116,14 @@
         }
       }
     },
-    "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj": {
+    "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj",
+        "projectPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\ReposatoryLayer\\RepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\ReposatoryLayer\\obj\\",
+        "outputPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\ReposatoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,8 +140,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj": {
-                "projectPath": "C:\\Users\\abhis\\source\\repos\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj"
+              "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj": {
+                "projectPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\DataBaseLayer\\DataBaseLayer.csproj"
               }
             }
           }

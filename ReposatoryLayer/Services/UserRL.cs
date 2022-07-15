@@ -16,7 +16,7 @@ namespace RepositoryLayer.Services
             this.fundooContext = fundooContext;
             this.configuration = configuration;
         }
-
+        //method
         public void AddUser(UserModel userModel)
         {
             try
