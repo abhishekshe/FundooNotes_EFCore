@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LyYk+cXsG89bQafMpA096FdVD7zaaNQONMbQ1drndgkWwMNHuJWU0rFUNvbBJTfuAPN5k4a4vNDLYlg2kfO7JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\Nlog\\NLoggers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhis\\.nuget\\packages\\nlog\\5.0.1\\nlog.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

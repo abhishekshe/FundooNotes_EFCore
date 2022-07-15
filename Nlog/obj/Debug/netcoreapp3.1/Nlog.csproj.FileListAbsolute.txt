@@ -1,0 +1,5 @@
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\Nlog\obj\Debug\netcoreapp3.1\Nlog.csproj.AssemblyReference.cache
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\Nlog\obj\Debug\netcoreapp3.1\Nlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\Nlog\obj\Debug\netcoreapp3.1\Nlog.AssemblyInfoInputs.cache
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\Nlog\obj\Debug\netcoreapp3.1\Nlog.AssemblyInfo.cs
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\Nlog\obj\Debug\netcoreapp3.1\Nlog.csproj.CoreCompileInputs.cache

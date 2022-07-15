@@ -735,6 +735,15 @@
           "lib/netstandard1.3/Newtonsoft.Json.dll": {}
         }
       },
+      "NLog/5.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NLog.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {}
+        }
+      },
       "runtime.native.System/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1900,6 +1909,19 @@
           "bin/placeholder/DataBaseLayer.dll": {}
         }
       },
+      "NLoggers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "NLog": "5.0.1"
+        },
+        "compile": {
+          "bin/placeholder/NLoggers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NLoggers.dll": {}
+        }
+      },
       "RepositoryLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -2916,6 +2938,30 @@
         "newtonsoft.json.10.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "tools/install.ps1"
+      ]
+    },
+    "NLog/5.0.1": {
+      "sha512": "lNErNEPzYiZtUAlgvXpSRxUIPLIDHTLA8pKxkDDV//DCqzwp98FitFemOEmJjIuPvk3GC3ytrQMXsy7P9RTPIw==",
+      "type": "package",
+      "path": "nlog/5.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "N.png",
+        "lib/net35/NLog.dll",
+        "lib/net35/NLog.xml",
+        "lib/net45/NLog.dll",
+        "lib/net45/NLog.xml",
+        "lib/net46/NLog.dll",
+        "lib/net46/NLog.xml",
+        "lib/netstandard1.3/NLog.dll",
+        "lib/netstandard1.3/NLog.xml",
+        "lib/netstandard1.5/NLog.dll",
+        "lib/netstandard1.5/NLog.xml",
+        "lib/netstandard2.0/NLog.dll",
+        "lib/netstandard2.0/NLog.xml",
+        "nlog.5.0.1.nupkg.sha512",
+        "nlog.nuspec"
       ]
     },
     "runtime.native.System/4.3.0": {
@@ -6619,6 +6665,11 @@
       "path": "../DataBaseLayer/DataBaseLayer.csproj",
       "msbuildProject": "../DataBaseLayer/DataBaseLayer.csproj"
     },
+    "NLoggers/1.0.0": {
+      "type": "project",
+      "path": "../Nlog/NLoggers.csproj",
+      "msbuildProject": "../Nlog/NLoggers.csproj"
+    },
     "RepositoryLayer/1.0.0": {
       "type": "project",
       "path": "../ReposatoryLayer/RepositoryLayer.csproj",
@@ -6635,6 +6686,7 @@
       "Microsoft.EntityFrameworkCore >= 5.0.1",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.1",
       "Microsoft.OpenApi >= 1.3.2",
+      "NLoggers >= 1.0.0",
       "Swashbuckle.AspNetCore.Swagger >= 6.3.1",
       "Swashbuckle.AspNetCore.SwaggerGen >= 6.3.1",
       "Swashbuckle.AspNetCore.SwaggerUI >= 6.3.1"
@@ -6669,6 +6721,9 @@
           "projectReferences": {
             "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj": {
               "projectPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\BuisenessLayer\\BusinessLayer.csproj"
+            },
+            "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\Nlog\\NLoggers.csproj": {
+              "projectPath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\Nlog\\NLoggers.csproj"
             }
           }
         }
