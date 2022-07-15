@@ -321,6 +321,17 @@
           "FundooNotes_EFCore.dll": {}
         }
       },
+      "Experimental.System.Messaging/1.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Experimental.System.Messaging.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Experimental.System.Messaging.dll": {}
+        }
+      },
       "Humanizer.Core/2.8.26": {
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {
@@ -1641,6 +1652,7 @@
       "RepositoryLayer/1.0.0": {
         "dependencies": {
           "DataBaseLayer": "1.0.0",
+          "Experimental.System.Messaging": "1.1.0",
           "Microsoft.AspNetCore.Authentication": "2.2.0",
           "Microsoft.AspNetCore.Authentication.Core": "2.2.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.11",
@@ -3281,6 +3293,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Experimental.System.Messaging/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vub7Mtt2WFdFKTZKECVuZx6feP5kUpS9EfVy+Yu4GDfdlMwivRdX4TbdkDYS2lKqCjqzUbnxTbJei1IOqC+CnA==",
+      "path": "experimental.system.messaging/1.1.0",
+      "hashPath": "experimental.system.messaging.1.1.0.nupkg.sha512"
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",

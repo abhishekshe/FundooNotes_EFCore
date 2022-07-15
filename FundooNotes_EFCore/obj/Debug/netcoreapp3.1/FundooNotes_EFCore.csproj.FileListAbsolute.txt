@@ -150,3 +150,4 @@ C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\n
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.RazorTargetAssemblyInfo.cache
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.csproj.CopyComplete
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.genruntimeconfig.cache
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\Experimental.System.Messaging.dll
