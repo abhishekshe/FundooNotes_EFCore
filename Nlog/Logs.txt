@@ -1,1 +1,1 @@
-﻿
+﻿2022-07-15 23:06:42.5832|INFO|NLoggers.Services.LoggerManager|User cred Email : abhishek123@gmail.com

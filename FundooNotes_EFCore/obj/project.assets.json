@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "Experimental.System.Messaging/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Experimental.System.Messaging.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Experimental.System.Messaging.dll": {}
+        }
+      },
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -1927,6 +1936,7 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "DataBaseLayer": "1.0.0",
+          "Experimental.System.Messaging": "1.1.0",
           "Microsoft.AspNetCore.Authentication": "2.2.0",
           "Microsoft.AspNetCore.Authentication.Core": "2.2.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.11",
@@ -1943,6 +1953,20 @@
     }
   },
   "libraries": {
+    "Experimental.System.Messaging/1.1.0": {
+      "sha512": "vub7Mtt2WFdFKTZKECVuZx6feP5kUpS9EfVy+Yu4GDfdlMwivRdX4TbdkDYS2lKqCjqzUbnxTbJei1IOqC+CnA==",
+      "type": "package",
+      "path": "experimental.system.messaging/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "experimental.system.messaging.1.1.0.nupkg.sha512",
+        "experimental.system.messaging.nuspec",
+        "lib/netstandard2.0/Experimental.System.Messaging.dll",
+        "lib/netstandard2.0/Experimental.System.Messaging.xml"
+      ]
+    },
     "Humanizer.Core/2.8.26": {
       "sha512": "OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "type": "package",
