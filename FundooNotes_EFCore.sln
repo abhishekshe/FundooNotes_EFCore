@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBaseLayer", "DataBaseLa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositoryLayer", "ReposatoryLayer\RepositoryLayer.csproj", "{D58C80C3-167E-4122-BFAC-342E483AE3E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLoggers", "Nlog\NLoggers.csproj", "{75E9C777-4B4E-42D1-B2AE-EF6073481554}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D58C80C3-167E-4122-BFAC-342E483AE3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D58C80C3-167E-4122-BFAC-342E483AE3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D58C80C3-167E-4122-BFAC-342E483AE3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E9C777-4B4E-42D1-B2AE-EF6073481554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E9C777-4B4E-42D1-B2AE-EF6073481554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E9C777-4B4E-42D1-B2AE-EF6073481554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E9C777-4B4E-42D1-B2AE-EF6073481554}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,6 +3,8 @@ using Microsoft.Extensions.Configuration;
 using RepositoryLayer.Interface;
 using RepositoryLayer.Services.Entities;
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace RepositoryLayer.Services
 {
@@ -16,7 +18,7 @@ namespace RepositoryLayer.Services
             this.fundooContext = fundooContext;
             this.configuration = configuration;
         }
-        //method
+
         public void AddUser(UserModel userModel)
         {
             try
@@ -30,6 +32,18 @@ namespace RepositoryLayer.Services
                 user.ModifiedDate = DateTime.Now;
                 this.fundooContext.Users.Add(user);
                 this.fundooContext.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public List<User> GetAllUsers()
+        {
+            try
+            {
+                return this.fundooContext.Users.ToList();
             }
             catch (Exception ex)
             {

@@ -1,7 +1,9 @@
 ﻿using BusinessLayer.Interface;
 using DataBaseLayer.UserModels;
 using RepositoryLayer.Interface;
+using RepositoryLayer.Services.Entities;
 using System;
+using System.Collections.Generic;
 
 namespace BusinessLayer.Services
 {
@@ -25,5 +27,19 @@ namespace BusinessLayer.Services
                 throw ex;
             }
         }
+        public List<User> GetAllUsers()
+        {
+            try
+            {
+                return this.userRL.GetAllUsers();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+
+        
     }
 }

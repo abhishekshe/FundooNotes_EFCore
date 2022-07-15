@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dOOfW6vEalr9WPeBhoDYTpjBEXmcqZ2RabdpPnw8Abot22U7e261Nft/ACvVlATeHMwfOL02dxLT32q5J7wQrQ==",
+  "dgSpecHash": "M0Y8Y0WNzZL+di2dRM/2xm1oZA9LmIh3Jp7l2DsS1t9MyVtITkUJP4TnyxQRVzmxgf/sxE+ueI26u3kwL0CKdw==",
   "success": true,
   "projectFilePath": "C:\\Users\\abhis\\source\\repos\\EF\\FundooNotes_EFCore\\FundooNotes_EFCore\\FundooNotes_EFCore.csproj",
   "expectedPackageFiles": [
@@ -55,6 +55,7 @@
     "C:\\Users\\abhis\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\abhis\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\abhis\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\abhis\\.nuget\\packages\\nlog\\5.0.1\\nlog.5.0.1.nupkg.sha512",
     "C:\\Users\\abhis\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\abhis\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
     "C:\\Users\\abhis\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",

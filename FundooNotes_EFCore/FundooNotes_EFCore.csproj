@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BuisenessLayer\BusinessLayer.csproj" />
+    <ProjectReference Include="..\Nlog\NLoggers.csproj" />
   </ItemGroup>
 
 
