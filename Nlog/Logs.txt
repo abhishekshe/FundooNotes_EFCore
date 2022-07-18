@@ -3,3 +3,7 @@
 2022-07-15 23:44:43.0738|INFO|NLoggers.Services.LoggerManager|User cred Email : anarwariya97@gmail.com
 2022-07-15 23:46:28.7473|INFO|NLoggers.Services.LoggerManager|User Registerd Email : anarwariya97@gmail.com
 2022-07-15 23:47:05.0898|INFO|NLoggers.Services.LoggerManager|User cred Email : anarwariya97@gmail.com
+2022-07-18 21:46:18.3603|INFO|NLoggers.Services.LoggerManager|User cred Email : abhishek321@gmail.com
+2022-07-18 22:03:45.2251|INFO|NLoggers.Services.LoggerManager|User Registerd Email : krishnalodhi123@gmail.com
+2022-07-18 22:04:29.3269|INFO|NLoggers.Services.LoggerManager|User cred Email : krishnalodhi123@gmail.com
+2022-07-18 22:05:34.6578|INFO|NLoggers.Services.LoggerManager|Note Created Successfully UserId = UserId: 3
