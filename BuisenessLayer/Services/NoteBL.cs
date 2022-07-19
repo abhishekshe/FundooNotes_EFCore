@@ -21,7 +21,7 @@ namespace BusinessLayer.Services
         {
             try
             {
-                this.noteRL.AddNote(UserId, notePostModel);
+                await this.noteRL.AddNote(UserId, notePostModel);
             }
             catch (Exception ex)
             {
@@ -29,11 +29,12 @@ namespace BusinessLayer.Services
                 throw ex;
             }
         }
-        public Task<List<NoteResponseModel>> GetAllNote(int UserId)
+
+        public async Task<List<NoteResponseModel>> GetAllNote(int UserId)
         {
             try
             {
-                return this.noteRL.GetAllNote(UserId);
+                return await this.noteRL.GetAllNote(UserId);
             }
             catch (Exception ex)
             {
@@ -41,11 +42,12 @@ namespace BusinessLayer.Services
                 throw ex;
             }
         }
-        public Task<bool> UpdateNote(int userId, int noteId, NoteUpdateModel updateModel)
+
+        public async Task<bool> UpdateNote(int userId, int noteId, NoteUpdateModel updateModel)
         {
             try
             {
-                return this.noteRL.UpdateNote(userId, noteId, updateModel);
+                return await this.noteRL.UpdateNote(userId, noteId, updateModel);
             }
             catch (Exception ex)
             {
@@ -54,5 +56,17 @@ namespace BusinessLayer.Services
             }
         }
 
+        public async Task<bool> DeleteNote(int userId, int noteId)
+        {
+            try
+            {
+                return await this.noteRL.DeleteNote(userId, noteId);
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
     }
 }
