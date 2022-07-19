@@ -16,3 +16,6 @@
 2022-07-19 21:49:01.7151|INFO|NLoggers.Services.LoggerManager|User Registerd Email : abhirajpoot@gmail.com
 2022-07-19 21:50:35.2888|INFO|NLoggers.Services.LoggerManager|User cred Email : abhirajpoot@gmail.com
 2022-07-19 22:08:34.3925|INFO|NLoggers.Services.LoggerManager|Note Created Successfully UserId = UserId: 5
+2022-07-20 00:03:34.0819|INFO|NLoggers.Services.LoggerManager|User cred Email : abhirajpoot@123
+2022-07-20 00:05:34.5609|INFO|NLoggers.Services.LoggerManager|User Registerd Email : abhishekrajpoot123@gmail.com
+2022-07-20 00:07:02.0424|INFO|NLoggers.Services.LoggerManager|User cred Email : abhishekrajpoot123@gmail.com
