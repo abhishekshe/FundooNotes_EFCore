@@ -77,6 +77,7 @@ C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\n
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.AssemblyInfoInputs.cache
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.AssemblyInfo.cs
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.csproj.CoreCompileInputs.cache
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\Nlog.config
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
