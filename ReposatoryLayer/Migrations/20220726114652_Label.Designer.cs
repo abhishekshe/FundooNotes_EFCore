@@ -10,8 +10,8 @@ using RepositoryLayer.Services;
 namespace RepositoryLayer.Migrations
 {
     [DbContext(typeof(FundooContext))]
-    [Migration("20220719155714_Notes")]
-    partial class Notes
+    [Migration("20220726114652_Label")]
+    partial class Label
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -20,6 +20,31 @@ namespace RepositoryLayer.Migrations
                 .UseIdentityColumns()
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.1");
+
+            modelBuilder.Entity("RepositoryLayer.Services.Entities.Label", b =>
+                {
+                    b.Property<int>("LabelId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .UseIdentityColumn();
+
+                    b.Property<string>("LabelName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("NoteId")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("LabelId");
+
+                    b.HasIndex("NoteId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Label");
+                });
 
             modelBuilder.Entity("RepositoryLayer.Services.Entities.Note", b =>
                 {
@@ -63,6 +88,8 @@ namespace RepositoryLayer.Migrations
 
                     b.HasKey("NoteId");
 
+                    b.HasIndex("UserId");
+
                     b.ToTable("Notes");
                 });
 
@@ -98,6 +125,32 @@ namespace RepositoryLayer.Migrations
                         .HasFilter("[Email] IS NOT NULL");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("RepositoryLayer.Services.Entities.Label", b =>
+                {
+                    b.HasOne("RepositoryLayer.Services.Entities.Note", "note")
+                        .WithMany()
+                        .HasForeignKey("NoteId");
+
+                    b.HasOne("RepositoryLayer.Services.Entities.User", "users")
+                        .WithMany()
+                        .HasForeignKey("UserId");
+
+                    b.Navigation("note");
+
+                    b.Navigation("users");
+                });
+
+            modelBuilder.Entity("RepositoryLayer.Services.Entities.Note", b =>
+                {
+                    b.HasOne("RepositoryLayer.Services.Entities.User", "user")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("user");
                 });
 #pragma warning restore 612, 618
         }

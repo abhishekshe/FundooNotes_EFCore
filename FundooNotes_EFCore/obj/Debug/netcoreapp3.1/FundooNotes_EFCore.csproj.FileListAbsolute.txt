@@ -72,13 +72,6 @@ C:\Users\abhis\source\repos\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netc
 C:\Users\abhis\source\repos\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\abhis\source\repos\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\BusinessLayer.dll
 C:\Users\abhis\source\repos\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
-C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.csproj.AssemblyReference.cache
-C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.AssemblyInfoInputs.cache
-C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.AssemblyInfo.cs
-C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.csproj.CoreCompileInputs.cache
-C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\Nlog.config
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\appsettings.json
@@ -145,6 +138,13 @@ C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\n
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\NLoggers.pdb
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\DataBaseLayer.pdb
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.csproj.AssemblyReference.cache
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.AssemblyInfoInputs.cache
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.AssemblyInfo.cs
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.csproj.CoreCompileInputs.cache
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\staticwebassets\FundooNotes_EFCore.StaticWebAssets.Manifest.cache
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.RazorTargetAssemblyInfo.cache
 C:\Users\abhis\source\repos\EF\FundooNotes_EFCore\FundooNotes_EFCore\obj\Debug\netcoreapp3.1\FundooNotes_EFCore.csproj.CopyComplete
