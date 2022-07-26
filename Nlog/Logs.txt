@@ -22,3 +22,30 @@
 2022-07-20 19:58:52.0334|INFO|NLoggers.Services.LoggerManager|User Registerd Email : abhisheknarwariya813@gmail.com
 2022-07-20 19:59:54.4892|INFO|NLoggers.Services.LoggerManager|User cred Email : abhisheknarwariya813@gmail.com
 2022-07-20 20:01:55.6436|INFO|NLoggers.Services.LoggerManager|Note Created Successfully UserId = UserId: 7
+2022-07-25 10:09:45.8376|INFO|NLoggers.Services.LoggerManager|User cred Email : abhisheknarwariya813@gmail.com
+2022-07-25 10:10:34.5866|INFO|NLoggers.Services.LoggerManager|Enterd invalid Note Id 3
+2022-07-25 10:10:52.6375|ERROR|NLoggers.Services.LoggerManager|Invalid object name 'Label'.
+2022-07-25 10:11:12.0679|ERROR|NLoggers.Services.LoggerManager|Invalid object name 'Label'.
+2022-07-25 10:11:25.1562|INFO|NLoggers.Services.LoggerManager|Enterd invalid Note Id 3
+2022-07-25 10:11:35.3921|ERROR|NLoggers.Services.LoggerManager|Invalid object name 'Label'.
+2022-07-25 10:11:42.9770|INFO|NLoggers.Services.LoggerManager|Enterd invalid Note Id 5
+2022-07-25 10:13:36.4383|INFO|NLoggers.Services.LoggerManager|User cred Email : abhisheknarwariya813@gmail.com
+2022-07-25 10:14:45.5563|ERROR|NLoggers.Services.LoggerManager|Invalid object name 'Label'.
+2022-07-25 10:36:44.6334|INFO|NLoggers.Services.LoggerManager|User cred Email : abhisheknarwariya813@gmail.com
+2022-07-25 10:37:15.0089|ERROR|NLoggers.Services.LoggerManager|Invalid object name 'Label'.
+2022-07-25 10:43:41.6351|INFO|NLoggers.Services.LoggerManager|User cred Email : abhisheknarwariya813@gmail.com
+2022-07-25 10:44:50.2339|INFO|NLoggers.Services.LoggerManager|Enterd invalid Note Id 3
+2022-07-25 10:45:13.8310|ERROR|NLoggers.Services.LoggerManager|Invalid object name 'Label'.
+2022-07-25 10:46:41.1207|INFO|NLoggers.Services.LoggerManager|Enterd invalid Note Id 6
+2022-07-25 10:46:53.3495|INFO|NLoggers.Services.LoggerManager|Enterd invalid Note Id 5
+2022-07-25 10:47:00.8899|INFO|NLoggers.Services.LoggerManager|Enterd invalid Note Id 7
+2022-07-25 10:47:09.6122|ERROR|NLoggers.Services.LoggerManager|Invalid object name 'Label'.
+2022-07-25 10:49:56.3102|ERROR|NLoggers.Services.LoggerManager|Invalid object name 'Label'.
+2022-07-25 10:50:30.9638|ERROR|NLoggers.Services.LoggerManager|Invalid object name 'Label'.
+2022-07-25 10:50:39.2726|INFO|NLoggers.Services.LoggerManager|Enterd invalid Note Id 3
+2022-07-26 17:18:41.3457|INFO|NLoggers.Services.LoggerManager|User cred Email : abhisheknarwariya813@gmail.com
+2022-07-26 17:19:56.9686|INFO|NLoggers.Services.LoggerManager|User Registerd Email : abhisheknarwariya813@gmail.com
+2022-07-26 17:20:08.7720|INFO|NLoggers.Services.LoggerManager|User cred Email : abhisheknarwariya813@gmail.com
+2022-07-26 17:21:26.9544|INFO|NLoggers.Services.LoggerManager|Note Created Successfully UserId = UserId: 1
+2022-07-26 17:24:59.6274|INFO|NLoggers.Services.LoggerManager|User cred Email : abhisheknarwariya813@gmail.com
+2022-07-26 17:30:23.1546|INFO|NLoggers.Services.LoggerManager|Label Cread Successfully with noted id = 1
