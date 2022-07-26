@@ -53,3 +53,4 @@
 2022-07-26 20:33:30.0363|INFO|NLoggers.Services.LoggerManager|User cred Email : abhisheknarwariya813@gmail.com
 2022-07-26 20:40:45.5626|INFO|NLoggers.Services.LoggerManager|Enterd invalid Note Id 2
 2022-07-26 20:40:57.7827|INFO|NLoggers.Services.LoggerManager|Label Cread Successfully with noted id = 1
+2022-07-26 23:00:48.7053|INFO|NLoggers.Services.LoggerManager|User cred Email : abhisheknarwariya813@gmail.com
